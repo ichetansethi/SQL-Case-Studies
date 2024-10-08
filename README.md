@@ -1,2 +1,3 @@
-This is my first project on Exploratory Data Analysis. I will be putting more projects out there on various datasets.
-Feel free to comment, criticize and suggest measures to improve and become better.
+This repository contains my case studies on various datasets using SQL.
+Under these case studies, I have used various queries from basic to complex, to retieve data and understand the workings of databases.
+Please feel free to comment, criticize and suggest some other ways to improve and become better.
